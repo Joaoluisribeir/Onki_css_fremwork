@@ -1,0 +1,59 @@
+
+
+/*botões*/
+.btn{
+  width:150px;
+  height:40px;
+  border:1px solid transparent;
+  border-radius:10px;
+  color:white;
+  background-color:#FF0182;
+background: linear-gradient(90deg,rgba(255, 1, 130, 1) 0%, rgba(255, 12, 238, 1) 51%);;
+}
+.btn-2{
+  width:150px;
+  height:40px;
+  border-radius:10px;
+  background-color:transparent;
+  border:1px solid #FF0182 ;
+}
+
+
+/*inputs*/
+.basic-input{
+  width:300px;
+  outline:none;
+  border-top:none;
+  border-right:none;
+  border-left:none;
+  border-bottom:1px solid#FF0182;
+}
+.submit{
+   width:150px;
+  height:40px;
+  border:1px solid transparent;
+  border-radius:10px;
+  color:white;
+  background-color:#FF0182;
+background: linear-gradient(90deg,rgba(255, 1, 130, 1) 0%, rgba(255, 12, 238, 1) 51%);;
+  
+}
+
+
+/*menus*/
+.menu-bottom{
+  height:60px;
+  padding:9px;
+  background-color:#FF0182;
+  bottom:10px;
+  position: fixed;
+  width:90%;
+  left:1rem;
+  border-radius:20px;
+}
+.column{
+  display:flex;
+  flex-direction:column;
+  color:white;
+  margin:1rem;
+}
